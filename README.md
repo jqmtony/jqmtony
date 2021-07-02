@@ -1,5 +1,5 @@
 <table align="center"><tr>
-  <td valign="top" width="45%">
+  <td valign="top" width="30%">
 
   ### My Github
   - [Java通用类库](https://github.com/jqmtony/xplus-commons-utils)
@@ -7,7 +7,7 @@
 [查看更多](https://github.com/jqmtony?tab=repositories)
 
   </td>
-  <td valign="top" width="45%">
+  <td valign="top" width="30%">
 
   ### GitHub 统计
 <p align="center">
