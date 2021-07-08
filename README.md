@@ -10,7 +10,7 @@
   </td>
   <td valign="top" width="30%">
 
-  ### GitHub 统计AAA
+  ### GitHub 统计
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jqmtony"/>
 </p>
